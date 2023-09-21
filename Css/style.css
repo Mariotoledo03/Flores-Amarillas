@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: 'Inclusive Sans', sans-serif;
-    background: linear-gradient(blue, purple, green);
+    background: linear-gradient(red, orange, red, lightpink, hotpink, pink, purple);
 }
 
 h1 {
